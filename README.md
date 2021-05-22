@@ -20,3 +20,6 @@ validation the history, soft and hard predictions for test set and the actual te
 ## inference
 Upload the weights to the notebook as weights.hdf5 and image as image.ppm the code will then ask for ROI for x and y then predict the label
 
+
+## References
+- J. Hu, L. Shen and G. Sun, "Squeeze-and-Excitation Networks," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 7132-7141, doi: 10.1109/CVPR.2018.00745.
